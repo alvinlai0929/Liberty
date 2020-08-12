@@ -11,7 +11,7 @@
 <!-- SQL Server Setting -->
 	<dataSource id="DefaultDataSource" jndiName="jdbc/mssqlserver">
 					<jdbcDriver libraryRef="MSJDBCLib" />
-					<properties.microsoft.sqlserver password="1qaz@WSX" user="sa" portNumber="1433" serverName="localhost" databaseName="SAMPLE" />
+					<properties.microsoft.sqlserver password="1qaz@WSX" databaseName="SAMPLE" serverName="localhost" portNumber="1433" user="sa" />
 			</dataSource>
 			
 			<library id="MSJDBCLib">

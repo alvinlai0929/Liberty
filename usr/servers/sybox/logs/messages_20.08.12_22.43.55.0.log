@@ -1,0 +1,88 @@
+********************************************************************************
+product = WebSphere Application Server 19.0.0.9 (wlp-1.0.32.cl190920190905-0148)
+wlp.install.dir = D:/IBM/WebSphere/Liberty/
+java.home = D:\IBM\HTTPServer\java\8.0\jre
+java.version = 1.8.0_211
+java.runtime = Java(TM) SE Runtime Environment (8.0.5.35 - pwa6480sr5fp35-20190418_01(SR5 FP35))
+os = Windows 10 (10.0; amd64) (zh_TW)
+process = 9016@LAICHIENFU0DD3
+********************************************************************************
+[2020/8/12   22:41:40:654 CST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: 已啟動伺服器 sybox。
+[2020/8/12   22:42:09:060 CST] 00000018 com.ibm.ws.config.xml.internal.XMLConfigParser               A CWWKG0028A: 處理併入的配置資源：D:\IBM\WebSphere\Liberty\usr\servers\sybox\resources\include\connectdb.xml
+[2020/8/12   22:42:09:310 CST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: 核心在 29.174 秒 之後啟動
+[2020/8/12   22:42:11:685 CST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: 特性更新已啟動。
+[2020/8/12   22:42:17:216 CST] 00000017 com.ibm.ws.security.ready.internal.SecurityReadyServiceImpl  I CWWKS0007I: 安全服務啟動中...
+[2020/8/12   22:42:17:420 CST] 00000018 com.ibm.ws.app.manager.internal.monitor.DropinMonitor        A CWWKZ0058I: 監視 dropins 以尋找應用程式。
+[2020/8/12   22:42:17:466 CST] 00000022 com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0219I: 已啟動 TCP 通道 defaultHttpEndpoint，且現在正在主機 127.0.0.1  (IPv4: 127.0.0.1) 埠 9080 上接聽要求。
+[2020/8/12   22:42:17:591 CST] 00000017 com.ibm.ws.cache.ServerCache                                 I DYNA1001I: 已順利起始設定名為 baseCache 的「WebSphere 動態快取」實例。
+[2020/8/12   22:42:17:607 CST] 00000017 com.ibm.ws.cache.ServerCache                                 I DYNA1071I: 正在使用快取提供者 default。
+[2020/8/12   22:42:17:607 CST] 00000017 com.ibm.ws.cache.CacheServiceImpl                            I DYNA1056I: 「動態快取（物件快取）」起始設定成功。
+[2020/8/12   22:42:17:638 CST] 00000017 ibm.ws.security.authentication.internal.jaas.JAASServiceImpl I CWWKS1123I: 類別名稱為 NullCollectiveAuthenticationPlugin 的群體鑑別外掛程式已啟動。
+[2020/8/12   22:42:17:873 CST] 00000023 com.ibm.ws.security.ready.internal.SecurityReadyServiceImpl  I CWWKS0008I: 安全服務已備妥。
+[2020/8/12   22:42:17:873 CST] 00000023 com.ibm.ws.security.token.ltpa.internal.LTPAKeyCreateTask    I CWWKS4105I: LTPA 配置在 0.257 秒之後備妥。
+[2020/8/12   22:42:18:044 CST] 00000017 com.ibm.ws.ui.internal.v1.pojo.POJOLoaderService             I CWWKX1015I: 已起始設定「管理中心」的 FILE 持續層。
+[2020/8/12   22:42:18:044 CST] 00000017 com.ibm.ws.ui.internal.v1.pojo.PlainTextLoaderService        I CWWKX1063I: 已起始設定「管理中心」工具資料載入器的 FILE 持續層。
+[2020/8/12   22:42:18:154 CST] 0000001d com.ibm.ws.ssl.config.WSKeyStore                             I Successfully loaded default keystore: D:/IBM/WebSphere/Liberty/usr/servers/sybox/resources/security/plugin-key.p12 of type: PKCS12
+[2020/8/12   22:42:18:169 CST] 00000023 com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0219I: 已啟動 TCP 通道 defaultHttpEndpoint-ssl，且現在正在主機 127.0.0.1  (IPv4: 127.0.0.1) 埠 9443 上接聽要求。
+[2020/8/12   22:42:18:216 CST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: 伺服器已安裝下列特性：[adminCenter-1.0, distributedMap-1.0, el-3.0, jdbc-4.2, jndi-1.0, json-1.0, jsp-2.3, localConnector-1.0, restConnector-2.0, servlet-3.1, ssl-1.0, transportSecurity-1.0]。
+[2020/8/12   22:42:18:232 CST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: 特性更新已在 8.923 秒內完成。
+[2020/8/12   22:42:18:232 CST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0011I: sybox 伺服器已準備好執行 Smarter Planet。sybox 伺服器已在 38.099 秒內啟動。
+[2020/8/12   22:42:18:435 CST] 00000023 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: 正在載入 Web 模組：ibm/api。
+[2020/8/12   22:42:18:435 CST] 00000023 com.ibm.ws.webcontainer                                      I SRVE0250I: Web 模組 ibm/api 已連結至 default_host。
+[2020/8/12   22:42:18:451 CST] 00000023 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web 應用程式可用 (default_host)：http://localhost:9080/ibm/api/
+[2020/8/12   22:42:18:466 CST] 00000021 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: 正在載入 Web 模組：The Liberty Explore Tool。
+[2020/8/12   22:42:18:466 CST] 00000021 com.ibm.ws.webcontainer                                      I SRVE0250I: Web 模組 The Liberty Explore Tool 已連結至 default_host。
+[2020/8/12   22:42:18:466 CST] 00000021 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web 應用程式可用 (default_host)：http://localhost:9080/ibm/adminCenter/explore-1.0/
+[2020/8/12   22:42:18:482 CST] 00000022 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: 正在載入 Web 模組：IBMJMXConnectorREST。
+[2020/8/12   22:42:18:482 CST] 00000022 com.ibm.ws.webcontainer                                      I SRVE0250I: Web 模組 IBMJMXConnectorREST 已連結至 default_host。
+[2020/8/12   22:42:18:482 CST] 00000022 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web 應用程式可用 (default_host)：http://localhost:9080/IBMJMXConnectorREST/
+[2020/8/12   22:42:18:513 CST] 00000022 com.ibm.ws.jmx.connector.server.rest.RESTAppListener         I CWWKX0103I: JMX REST 連接器執行中，可從下列服務 URL 取得：service:jmx:rest://localhost:9443/IBMJMXConnectorREST
+[2020/8/12   22:42:18:513 CST] 00000022 com.ibm.ws.jmx.connector.server.rest.RESTAppListener         I CWWKX0103I: JMX REST 連接器執行中，可從下列服務 URL 取得：service:jmx:rest://localhost:9443/IBMJMXConnectorREST
+[2020/8/12   22:42:18:513 CST] 00000023 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: 正在載入 Web 模組：The Liberty Server Config Tool。
+[2020/8/12   22:42:18:513 CST] 00000023 com.ibm.ws.webcontainer                                      I SRVE0250I: Web 模組 The Liberty Server Config Tool 已連結至 default_host。
+[2020/8/12   22:42:18:513 CST] 00000023 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web 應用程式可用 (default_host)：http://localhost:9080/ibm/adminCenter/serverConfig-1.0/
+[2020/8/12   22:42:18:544 CST] 00000024 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: 正在載入 Web 模組：The Liberty Admin Center。
+[2020/8/12   22:42:18:560 CST] 00000024 com.ibm.ws.webcontainer                                      I SRVE0250I: Web 模組 The Liberty Admin Center 已連結至 default_host。
+[2020/8/12   22:42:18:560 CST] 00000024 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web 應用程式可用 (default_host)：http://localhost:9080/adminCenter/
+[2020/8/12   22:42:18:560 CST] 00000022 com.ibm.ws.session.WASSessionCore                            I SESN8501I: 階段作業管理程式未找到持續性儲存體位置；HttpSession 物件將儲存在本端應用程式伺服器的記憶體中。
+[2020/8/12   22:42:18:560 CST] 00000022 com.ibm.ws.session.WASSessionCore                            I SESN0176I: 將針對應用程式索引鍵 default_host/ibm/adminCenter/explore-1.0 來建立新的階段作業環境定義
+[2020/8/12   22:42:18:560 CST] 00000021 com.ibm.ws.session.WASSessionCore                            I SESN0176I: 將針對應用程式索引鍵 default_host/ibm/api 來建立新的階段作業環境定義
+[2020/8/12   22:42:18:560 CST] 00000023 com.ibm.ws.session.WASSessionCore                            I SESN0176I: 將針對應用程式索引鍵 default_host/IBMJMXConnectorREST 來建立新的階段作業環境定義
+[2020/8/12   22:42:18:560 CST] 00000024 com.ibm.ws.session.WASSessionCore                            I SESN0176I: 將針對應用程式索引鍵 default_host/ibm/adminCenter/serverConfig-1.0 來建立新的階段作業環境定義
+[2020/8/12   22:42:18:560 CST] 00000022 com.ibm.ws.util                                              I SESN0172I: 階段作業管理程式利用 Java 預設 SecureRandom 實作來產生階段作業 ID。
+[2020/8/12   22:42:18:560 CST] 00000021 com.ibm.ws.util                                              I SESN0172I: 階段作業管理程式利用 Java 預設 SecureRandom 實作來產生階段作業 ID。
+[2020/8/12   22:42:18:560 CST] 00000023 com.ibm.ws.util                                              I SESN0172I: 階段作業管理程式利用 Java 預設 SecureRandom 實作來產生階段作業 ID。
+[2020/8/12   22:42:18:560 CST] 00000024 com.ibm.ws.util                                              I SESN0172I: 階段作業管理程式利用 Java 預設 SecureRandom 實作來產生階段作業 ID。
+[2020/8/12   22:42:18:576 CST] 00000021 com.ibm.ws.cache.CacheServiceImpl                            I DYNA1056I: 「動態快取（物件快取）」起始設定成功。
+[2020/8/12   22:42:18:607 CST] 00000021 com.ibm.ws.session.WASSessionCore                            I SESN0176I: 將針對應用程式索引鍵 default_host/adminCenter 來建立新的階段作業環境定義
+[2020/8/12   22:42:18:607 CST] 00000021 com.ibm.ws.util                                              I SESN0172I: 階段作業管理程式利用 Java 預設 SecureRandom 實作來產生階段作業 ID。
+[2020/8/12   22:42:18:623 CST] 00000023 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [com.ibm.ws.jmx.connector.server.rest] [/IBMJMXConnectorREST] [JMXRESTProxyServlet]: 起始設定順利完成。
+[2020/8/12   22:42:18:669 CST] 00000022 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: 已自動為此伺服器在 D:\IBM\WebSphere\Liberty\usr\servers\sybox\logs\state\plugin-cfg.xml 產生 Web 伺服器外掛程式的配置檔。
+[2020/8/12   22:42:42:173 CST] 00000022 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [com.ibm.ws.ui] [/adminCenter] [/login.jsp]: 起始設定順利完成。
+[2020/8/12   22:42:50:641 CST] 00000022 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [com.ibm.ws.ui] [/adminCenter] [/toolbox.jsp]: 起始設定順利完成。
+[2020/8/12   22:42:50:719 CST] 00000034 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [com.ibm.ws.rest.handler] [/ibm/api] [RESTProxyServlet]: 起始設定順利完成。
+[2020/8/12   22:42:50:751 CST] 00000034 com.ibm.ws.ui.internal.v1.pojo.POJOLoaderService             I CWWKX1029I: 已載入使用者 admin 的「管理中心」預設工具箱。
+[2020/8/12   22:42:50:751 CST] 00000034 com.ibm.ws.ui.internal.v1.pojo.POJOLoaderService             I CWWKX1000I: 已載入「管理中心」預設型錄。
+[2020/8/12   22:42:53:641 CST] 00000022 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty 路徑。
+[2020/8/12   22:42:53:673 CST] 00000038 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/config 路徑。
+[2020/8/12   22:42:53:704 CST] 00000022 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/apps 路徑。
+[2020/8/12   22:42:53:704 CST] 00000037 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/resources 路徑。
+[2020/8/12   22:42:53:673 CST] 00000034 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr 路徑。
+[2020/8/12   22:43:05:751 CST] 00000022 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/config/D:/IBM/WebSphere/Liberty/usr/servers/sybox/resources/include/connectdb.xml 路徑。
+[2020/8/12   22:43:16:955 CST] 00000037 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
+[2020/8/12   22:43:16:985 CST] 00000037 com.ibm.ws.config.xml.internal.XMLConfigParser               A CWWKG0028A: 處理併入的配置資源：D:\IBM\WebSphere\Liberty\usr\servers\sybox\resources\include\connectdb.xml
+[2020/8/12   22:43:17:016 CST] 00000037 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0018I: 未更新伺服器配置。未偵測到任何功能變更。
+[2020/8/12   22:43:20:438 CST] 00000038 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/config/D:/IBM/WebSphere/Liberty/usr/servers/sybox/resources/include/connectdb.xml 路徑。
+[2020/8/12   22:43:41:126 CST] 00000014 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0085I: 伺服器 sybox 停止中，因為 JVM 正在結束。
+[2020/8/12   22:43:41:204 CST] 0000003f com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  A CWWKE1100I: 伺服器最多等待 30 秒來靜止。
+[2020/8/12   22:43:41:235 CST] 0000003d com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0220I: TCP 通道 defaultHttpEndpoint 已停止在主機 127.0.0.1  (IPv4: 127.0.0.1) 埠 9080 上接聽要求。
+[2020/8/12   22:43:41:235 CST] 0000003c com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0220I: TCP 通道 defaultHttpEndpoint-ssl 已停止在主機 127.0.0.1  (IPv4: 127.0.0.1) 埠 9443 上接聽要求。
+[2020/8/12   22:43:41:235 CST] 0000003c com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web 應用程式已移除 (default_host)：https://localhost:9443/ibm/adminCenter/serverConfig-1.0/
+[2020/8/12   22:43:41:251 CST] 0000003c com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web 應用程式已移除 (default_host)：https://localhost:9443/adminCenter/
+[2020/8/12   22:43:41:251 CST] 0000003c com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web 應用程式已移除 (default_host)：https://localhost:9443/ibm/api/
+[2020/8/12   22:43:41:251 CST] 0000003c com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web 應用程式已移除 (default_host)：https://localhost:9443/IBMJMXConnectorREST/
+[2020/8/12   22:43:41:251 CST] 0000003c com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web 應用程式已移除 (default_host)：https://localhost:9443/ibm/adminCenter/explore-1.0/
+[2020/8/12   22:43:42:298 CST] 0000003f com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  I CWWKE1101I: 伺服器靜止完成。
+[2020/8/12   22:43:42:579 CST] 0000003f com.ibm.ws.security.ready.internal.SecurityReadyServiceImpl  I CWWKS0009I: 安全服務已停止。
+[2020/8/12   22:43:42:594 CST] 0000003f ibm.ws.security.authentication.internal.jaas.JAASServiceImpl I CWWKS1124I: 類別名稱為 NullCollectiveAuthenticationPlugin 的群體鑑別外掛程式已關閉。
+[2020/8/12   22:43:42:954 CST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: 伺服器 sybox 在 2 分鐘, 2.828 秒 之後停止。
