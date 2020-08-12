@@ -76,3 +76,5 @@ process = 9896@LAICHIENFU0DD3
 [2020/8/12   22:52:05:920 CST] 00000081 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: 已自動為此伺服器在 D:\IBM\WebSphere\Liberty\usr\servers\sybox\logs\state\plugin-cfg.xml 產生 Web 伺服器外掛程式的配置檔。
 [2020/8/12   22:52:06:656 CST] 00000080 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
 [2020/8/12   22:52:06:781 CST] 00000080 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0017I: 已在 0.129 秒內順利更新伺服器配置。
+[2020/8/12   22:53:36:928 CST] 0000009f com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
+[2020/8/12   22:53:36:992 CST] 0000009f com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0018I: 未更新伺服器配置。未偵測到任何功能變更。
