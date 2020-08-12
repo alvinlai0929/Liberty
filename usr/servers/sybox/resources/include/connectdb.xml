@@ -10,12 +10,12 @@
 
 <!-- SQL Server Setting -->
 	<dataSource id="DefaultDataSource" jndiName="jdbc/mssqlserver">
-					<jdbcDriver libraryRef="MSJDBCLib"/>
-					<properties.microsoft.sqlserver databaseName="SAMPLE" serverName="localhost" portNumber="1433" user="sa" password="1qaz@WSX"/>
+					<jdbcDriver libraryRef="MSJDBCLib" />
+					<properties.microsoft.sqlserver password="1qaz@WSX" user="sa" portNumber="1433" serverName="localhost" databaseName="SAMPLE" />
 			</dataSource>
 			
 			<library id="MSJDBCLib">
-					<file name="${server.output.dir}/resources/mssql-jdbc-8.2.2.jre8.jar"/>
+					<file name="${server.output.dir}/resources/mssql-jdbc-8.2.2.jre8.jar" />
 			</library> 
 	
 
