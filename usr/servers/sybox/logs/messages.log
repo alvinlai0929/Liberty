@@ -111,3 +111,48 @@ process = 6108@LAICHIENFU0DD3
 [2020/8/12   17:14:28:560 CST] 000000f7 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/config/D:/IBM/WebSphere/Liberty/usr/servers/sybox/resources/incloud/connectdb.xml 路徑。
 [2020/8/12   17:18:09:344 CST] 00000140 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
 [2020/8/12   17:18:09:594 CST] 00000140 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0017I: 已在 0.259 秒內順利更新伺服器配置。
+[2020/8/12   17:25:00:957 CST] 000001bb com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
+[2020/8/12   17:25:01:176 CST] 000001bb com.ibm.ws.config.xml.internal.XMLConfigParser               A CWWKG0028A: 處理併入的配置資源：D:\IBM\WebSphere\Liberty\usr\servers\sybox\resources\incloud\connectdb.xml
+[2020/8/12   17:25:01:332 CST] 000001c4 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0017I: 已在 0.387 秒內順利更新伺服器配置。
+[2020/8/12   17:25:04:272 CST] 000001c3 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/config/D:/IBM/WebSphere/Liberty/usr/servers/sybox/resources/incloud/connectdb.xml 路徑。
+[2020/8/12   17:25:33:582 CST] 000001d1 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
+[2020/8/12   17:25:33:613 CST] 000001d1 com.ibm.ws.config.xml.internal.XMLConfigParser               A CWWKG0028A: 處理併入的配置資源：D:\IBM\WebSphere\Liberty\usr\servers\sybox\resources\incloud\connectdb.xml
+[2020/8/12   17:25:34:035 CST] 000001c8 com.ibm.ws.library.internal.SharedLibraryImpl                W CWWKL0012W: 程式庫 [library[MSJDBCLib]] 指定了名稱為 [D:/IBM/Liberty/usr/servers/server1/resources/MSSQL/mssql-jdbc-8.2.2.jre8.jar] 的檔案。這個檔案不存在或未正確指定。
+[2020/8/12   17:25:34:472 CST] 000001d1 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0017I: 已在 0.900 秒內順利更新伺服器配置。
+[2020/8/12   17:27:31:421 CST] 000001f7 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
+[2020/8/12   17:27:31:468 CST] 000001f7 com.ibm.ws.config.xml.internal.XMLConfigParser               A CWWKG0028A: 處理併入的配置資源：D:\IBM\WebSphere\Liberty\usr\servers\sybox\resources\incloud\connectdb.xml
+[2020/8/12   17:27:32:382 CST] 000001fc com.ibm.ws.library.internal.SharedLibraryImpl                W CWWKL0012W: 程式庫 [library[MSJDBCLib]] 指定了名稱為 [D:/IBM/WebSphere/Liberty/usr/servers/sybox/mssql-jdbc-8.2.2.jre8.jar] 的檔案。這個檔案不存在或未正確指定。
+[2020/8/12   17:27:32:398 CST] 000001f7 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0017I: 已在 0.987 秒內順利更新伺服器配置。
+[2020/8/12   17:27:33:320 CST] 000001f4 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/config/D:/IBM/WebSphere/Liberty/usr/servers/sybox/resources/incloud/connectdb.xml 路徑。
+[2020/8/12   17:27:50:551 CST] 000001f7 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
+[2020/8/12   17:27:50:707 CST] 000001f7 com.ibm.ws.config.xml.internal.XMLConfigParser               A CWWKG0028A: 處理併入的配置資源：D:\IBM\WebSphere\Liberty\usr\servers\sybox\resources\incloud\connectdb.xml
+[2020/8/12   17:27:50:769 CST] 000001f7 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0017I: 已在 0.219 秒內順利更新伺服器配置。
+[2020/8/12   17:28:32:611 CST] 0000020a com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/config/D:/IBM/WebSphere/Liberty/usr/servers/sybox/resources/incloud/connectdb.xml 路徑。
+[2020/8/12   17:30:57:398 CST] 00000230 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
+[2020/8/12   17:30:57:694 CST] 0000023a com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0017I: 已在 0.302 秒內順利更新伺服器配置。
+[2020/8/12   17:31:27:534 CST] 0000023d com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
+[2020/8/12   17:31:27:549 CST] 0000023d com.ibm.ws.config.xml.internal.XMLConfigParser               A CWWKG0028A: 處理併入的配置資源：D:\IBM\WebSphere\Liberty\usr\servers\sybox\resources\incloud\connectdb.xml
+[2020/8/12   17:31:27:745 CST] 0000023d com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0017I: 已在 0.214 秒內順利更新伺服器配置。
+[2020/8/12   17:31:43:606 CST] 00000244 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/config/D:/IBM/WebSphere/Liberty/usr/servers/sybox/resources/incloud/connectdb.xml 路徑。
+[2020/8/12   17:32:02:861 CST] 00000244 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/config/D:/IBM/WebSphere/Liberty/usr/servers/sybox/resources/include/connectdb.xml 路徑。
+[2020/8/12   17:32:03:377 CST] 00000245 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
+[2020/8/12   17:32:03:487 CST] 00000245 com.ibm.ws.config.xml.internal.XMLConfigParser               A CWWKG0028A: 處理併入的配置資源：D:\IBM\WebSphere\Liberty\usr\servers\sybox\resources\include\connectdb.xml
+[2020/8/12   17:32:03:534 CST] 00000239 com.ibm.ws.library.internal.SharedLibraryImpl                W CWWKL0012W: 程式庫 [library[MSJDBCLib]] 指定了名稱為 [D:/IBM/WebSphere/Liberty/usr/servers/sybox/mssql-jdbc-8.2.2.jre8.jar] 的檔案。這個檔案不存在或未正確指定。
+[2020/8/12   17:32:03:549 CST] 00000244 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0017I: 已在 0.171 秒內順利更新伺服器配置。
+[2020/8/12   17:32:28:119 CST] 00000255 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/config/D:/IBM/WebSphere/Liberty/usr/servers/sybox/resources/include/connectdb.xml 路徑。
+[2020/8/12   17:32:57:970 CST] 00000261 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: 開始進行伺服器配置更新。
+[2020/8/12   17:32:57:970 CST] 00000261 com.ibm.ws.config.xml.internal.XMLConfigParser               A CWWKG0028A: 處理併入的配置資源：D:\IBM\WebSphere\Liberty\usr\servers\sybox\resources\include\connectdb.xml
+[2020/8/12   17:32:58:064 CST] 00000261 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0017I: 已在 0.102 秒內順利更新伺服器配置。
+[2020/8/12   17:33:08:556 CST] 00000262 com.ibm.ws.filetransfer.internal.mbean.FileService           E CWWKX7900E: 拒絕存取 D:/IBM/WebSphere/Liberty/usr/shared/config/D:/IBM/WebSphere/Liberty/usr/servers/sybox/resources/include/connectdb.xml 路徑。
+[2020/8/12   17:38:35:420 CST] 000002db com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: 正在啟動應用程式 IBM。
+[2020/8/12   17:38:35:435 CST] 000002db bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0133I: 正在將 IBM 應用程式（位於 D:\IBM\WebSphere\Liberty\usr\servers\sybox\dropins\IBM.war）擴展至 D:\IBM\WebSphere\Liberty\usr\servers\sybox\apps\expanded\IBM.war 目錄。
+[2020/8/12   17:38:36:123 CST] 000002db com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: 正在載入 Web 模組：iWeb。
+[2020/8/12   17:38:36:138 CST] 000002db com.ibm.ws.webcontainer                                      I SRVE0250I: Web 模組 iWeb 已連結至 default_host。
+[2020/8/12   17:38:36:138 CST] 000002db com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web 應用程式可用 (default_host)：http://localhost:9080/IBM/
+[2020/8/12   17:38:36:154 CST] 000002db com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0001I: 應用程式 IBM 已在 0.734 秒內啟動。
+[2020/8/12   17:38:36:185 CST] 000002e2 com.ibm.ws.session.WASSessionCore                            I SESN0176I: 將針對應用程式索引鍵 default_host/IBM 來建立新的階段作業環境定義
+[2020/8/12   17:38:36:201 CST] 000002e2 com.ibm.ws.util                                              I SESN0172I: 階段作業管理程式利用 Java 預設 SecureRandom 實作來產生階段作業 ID。
+[2020/8/12   17:38:36:357 CST] 000002dd com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: 已自動為此伺服器在 D:\IBM\WebSphere\Liberty\usr\servers\sybox\logs\state\plugin-cfg.xml 產生 Web 伺服器外掛程式的配置檔。
+[2020/8/12   17:39:50:584 CST] 000002f7 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web 應用程式已移除 (default_host)：http://localhost:9080/IBM/
+[2020/8/12   17:39:50:631 CST] 000002f7 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: 應用程式 IBM 已順利停止。
+[2020/8/12   17:39:50:678 CST] 00000301 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: 已自動為此伺服器在 D:\IBM\WebSphere\Liberty\usr\servers\sybox\logs\state\plugin-cfg.xml 產生 Web 伺服器外掛程式的配置檔。
