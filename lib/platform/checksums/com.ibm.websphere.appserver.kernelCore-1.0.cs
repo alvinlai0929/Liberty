@@ -1,0 +1,27 @@
+#Thu Sep 05 04:45:34 BST 2019
+lib/com.ibm.ws.kernel.service_1.3.32.jar=ab383027cc8f5acb3e4b685ca23701e6
+lib/com.ibm.ws.org.apache.felix.scr_1.0.32.jar=49449e7591df6761d9871067754e3507
+lib/com.ibm.ws.crypto.passwordutil_1.0.32.jar=0208dbb889d2a378c699ea99ad011b36
+lib/com.ibm.ws.org.apache.aries.jmx.core.whiteboard_1.0.32.jar=a1b0241b1cbc2767bfe4e9bd44fcf19d
+lib/com.ibm.ws.diagnostics_1.0.32.jar=a58e47a40dce1092b7b39709ee0a2a43
+lib/com.ibm.ws.config_1.0.32.jar=6efe69272619f78d5de4261a598c66ff
+lib/com.ibm.ws.org.apache.aries.jmx.api_1.0.32.jar=6b56b5b3a0ce2f725d8e1b965fd78876
+lib/org.eclipse.osgi_3.15.0.jar=6c6cfce873fd5793c1fb4cda9ad5ddff
+lib/com.ibm.ws.org.eclipse.equinox.metatype_1.0.32.jar=4d95d2da8dcf1ad0de10759b0cf4dc59
+lib/com.ibm.ws.kernel.metatype.helper_1.0.32.jar=24045494aaa5405701acd5b34347b2c1
+lib/com.ibm.ws.org.objectweb.asm_1.0.32.jar=3392400384a9dc8f165980aa688a4ccc
+lib/com.ibm.ws.org.eclipse.equinox.region_1.0.32.jar=00c1ac97bf4b9c73763e1f364d607a60
+lib/com.ibm.ws.org.jboss.jandex_1.0.32.jar=07ee4dd33d9390989e09abf8dcfa866e
+lib/com.ibm.ws.event_1.0.32.jar=e5324dba24554ebe353254d7e8f92e96
+lib/com.ibm.ws.kernel.feature_1.0.32.jar=1db48dc4b60841ef6eb380ed946dd2b3
+lib/com.ibm.ws.kernel.instrument.serialfilter_1.0.32.jar=77a9e3f58a72782a7d00b885a1ae1415
+lib/platform/kernelCore-1.0.mf=691860280829c147dd0b783ab3771757
+lib/com.ibm.ws.runtime.update_1.0.32.jar=c712d18a74d026a15c6f088457b11b3a
+lib/com.ibm.ws.config.ext_1.0.32.jar=910846d61f3216b41d27d59a974b9495
+lib/com.ibm.ws.kernel.filemonitor_1.0.32.jar=2a1223676f0db33b64b03e2773adb5be
+lib/com.ibm.ws.org.eclipse.equinox.coordinator_1.0.32.jar=394692a666212353357f66bb8697814b
+lib/com.ibm.ws.kernel.equinox.module_1.0.32.jar=3668cf97c4b616ae01ac6a4247b8f0d5
+lib/com.ibm.ws.threading_1.1.32.jar=4776ee4d1c9ad2117362179fbcc68fc2
+lib/com.ibm.ws.org.apache.aries.util_1.0.32.jar=06f3d710325ab3e0eceb192a1d892cb6
+lib/com.ibm.ws.jmx_1.0.32.jar=1006db1d1663abf93e280dab4415124d
+lib/com.ibm.ws.kernel.instrument.serialfilter.serverconfig_1.0.32.jar=e4e22831f01778e38aa362d42ed3a4d9

@@ -1,0 +1,18 @@
+PH10566 ISSUES WITH REMOTE PARTITION RESTART IF SERVER CRASHES
+PH11031 OAuth runtime emits error when adding EXTENDEDFIELDS column many times
+PH11759 PERFORMANCE DROPS WHEN WRITING A LARGE AMOUNT OF LOG ENTRIES TO LIBERTY'S CONSOLE LOG
+PH13269 DELAY ALPN INIT UNTIL REQUIRED AND FREE ALPN RESOURCES ON CONNECTION ERRORS TO PREVENT OUTOFMEMORY
+PH13932 "USING COLLECTION QEJBASSN FOR SESSION PERSISTANCE." IS ALWAYS OUTPUT WITH STARTUP OF LIBERTY SERVER.
+PH15089 A login might be required for unprotected resources when none of TAIs processed a request.
+PH15280 LEAK OF RACF ACEE CONTROL BLOCKS IN LIBERTY SERVER
+PH15505 COLLECTIVES KEYSTORE MISMATCH
+PH15877 Angel stops without detecting active liberty servers.
+OLGH7600 social login linkedin flow is broken and needs updating
+OLGH8169 ProfileManager.getImpl call ignores realm allowOpIfRepoDown setting
+OLGH8219 Support direct HTTP/2
+OLGH8473 webAppSecurity overrideHttpAuthMethod set to BASIC or FORM does not function
+OLGH8546 HTTP/2 trailer improvements
+OLGH8561 CWIML4564I informational message lists wrong LDAP server.
+OLGH8647 java.lang.IllegalStateException when running Liberty wlp-webProfile7 19.0.0.8
+OLGH8761 Java Batch: Remote JVM partitions not restartable after executor shutdown
+OLGH8793 Custom fields not logging when using LogRecordContext and field names contain underscores

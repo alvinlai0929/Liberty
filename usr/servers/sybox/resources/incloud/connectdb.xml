@@ -1,0 +1,28 @@
+<server>
+
+
+
+<remoteFileAccess>
+    		<writeDir>${server.config.dir}</writeDir>
+      <writeDir>${server.output.dir}</writeDir>
+   </remoteFileAccess>
+
+
+<!-- SQL Server Setting -->
+	<!--		<dataSource id="DefaultDataSource" jndiName="jdbc/mssqlserver">
+					<jdbcDriver libraryRef="MSJDBCLib"/>
+					<properties.microsoft.sqlserver databaseName="SAMPLE" serverName="localhost" portNumber="1433" user="sa" password="1qaz@WSX"/>
+			</dataSource>
+			
+			<library id="MSJDBCLib">
+					<file name="D:/IBM/Liberty/usr/servers/server1/resources/MSSQL/mssql-jdbc-8.2.2.jre8.jar"/>
+			</library> 
+	-->
+
+
+
+
+
+
+
+</server>
