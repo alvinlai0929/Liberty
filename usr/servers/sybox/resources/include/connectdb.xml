@@ -7,15 +7,15 @@
    </remoteFileAccess>
 
 
-<!-- SQL Server Setting -->
-	<!--	<dataSource id="DefaultDataSource" jndiName="jdbc/mssqlserver">
+<!-- SQL Server Setting --> 
+		<dataSource id="DefaultDataSource" jndiName="jdbc/mssqlserver">
 					<jdbcDriver libraryRef="MSJDBCLib"/>
 					<properties.microsoft.sqlserver databaseName="SAMPLE" serverName="localhost" portNumber="1433" user="sa" password="1qaz@WSX"/>
-			</dataSource>
+		</dataSource>
 			
-			<library id="MSJDBCLib">
+		<library id="MSJDBCLib">
 					<file name="${server.output.dir}\resources\mssql-jdbc-8.2.2.jre8.jar"/>
-			</library> 
-	-->
+		</library> 
+<!-- test SQL Server Setting: https://localhost:9443/ibm/api/validation/dataSource/ -->	
 
 </server>
